@@ -5,7 +5,7 @@
 
 ## :clipboard: About the project
 
-Decides to recreate this project that became extremely famous by applying new concepts and colors, in addition to reinforcing my knowledge in preprocessors
+I decided to recreate this project that became extremely famous by applying new concepts and colors, in addition to reinforcing my knowledge in preprocessors
 
 ## :computer: Languages used
 
