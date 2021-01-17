@@ -7,10 +7,10 @@
 
 I decided to recreate this project that became extremely famous by applying new concepts and colors, in addition to reinforcing my knowledge in preprocessors
 
-## :computer: Languages used
+## :computer: Used language
 
 * Sass
 
-## :book: Licença
+## :book: License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for more details.
